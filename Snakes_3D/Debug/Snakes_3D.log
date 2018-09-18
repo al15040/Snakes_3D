@@ -1,0 +1,4 @@
+﻿  Snakes_3D.cpp
+c:\users\光\source\repos\snakes_3d\snakes_3d\snakes_3d.cpp(41): warning C4244: '初期化中': 'float' から 'unsigned short' への変換です。データが失われる可能性があります。
+c:\users\光\source\repos\snakes_3d\snakes_3d\snakes_3d.cpp(71): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Snakes_3D.vcxproj -> C:\Users\光\source\repos\Snakes_3D\Debug\Snakes_3D.exe
